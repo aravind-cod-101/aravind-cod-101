@@ -3,7 +3,7 @@
 ## I'm a Front-end Developer,UI/UX Designer and App Developer!!
 
 
-- 🌱 I’m currently learning React JS 🤣
+- 🌱 I’m currently learning React JS 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play badminton / cricket
